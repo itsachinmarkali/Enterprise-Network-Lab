@@ -1,4 +1,4 @@
-# 🏢 Enterprise Network Simulation (Lab 3)
+# 🏢 Enterprise Network Simulation
 
 ## 📌 Overview
 
