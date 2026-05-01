@@ -92,7 +92,7 @@ permit ip any any
 
 ### 🔹 Network Topology
 
-![Topology](screenshots/topology.png)
+![Topology](topology.png)
 
 ---
 
