@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Packet Tracer autosave / temp files
+*.pkt~
+*.autosave
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Backup files
+*.bak
+*.tmp
